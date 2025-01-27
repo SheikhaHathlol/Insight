@@ -8,4 +8,4 @@ Insight is an AI-powered data analysis platform designed to help both technical 
 
 
 
-# How it works:
+## How it works:
