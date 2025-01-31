@@ -1,14 +1,16 @@
-# Insight
+# Insight📊
 Insight is an AI-powered data analysis platform designed to help both technical and non-technical users analyze their data quickly and effectively.
 
 ## Key Features:
-**Data Description**: Upon uploading a dataset, Insight provides an overview including the dataset title, a brief description, column names, data types, and row count, allowing users to quickly understand the structure of their data.
 
-**Data Cleaning**: Insight automatically checks each column for common data issues such as missing values, outliers, inconsistent formatting, and more. It then suggests practical solutions for each problem (e.g., filling missing values with the mean or median, or removing outliers) and applies the fixes to ensure your dataset is clean and ready for analysis.
+- **Data Description**: Provides a quick overview of the dataset, including title, description, column names, data types, and row count.
 
-**Data Analysis**: Insight offers a powerful descriptive analysis tool where users can select two columns and get insightful summaries such as mean, median, standard deviation, and correlations, helping them uncover patterns and trends.
+- **Data Cleaning**: Automatically checks for issues like missing values and outliers, offering solutions to fix them and clean the data.
 
-**Data Visualization**: allowing users to easily select columns and create visualizations that bring their data to life. Whether you’re creating bar charts, line graphs, or scatter plots, Insight empowers users to gain deeper insights into their data through customized visuals.
+- **Data Analysis**: Allows users to select two columns for descriptive statistics (mean, median, standard deviation, correlations) to uncover patterns.
+
+- **Data Visualization**: Enables easy creation of visualizations (bar charts, line graphs, scatter plots) to gain deeper insights into the data.
+
 
 ## How it works:
 1. **Uploading Your Dataset**:
